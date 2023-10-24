@@ -110,7 +110,7 @@ html,body{
 .wrapper .codepen:hover .tooltip:before{
   background: #47cf73;  /* moderate cyan - lime green */
 }
-.wrapper .linkedini:hover span,
+.wrapper .linkedin:hover span,
 .wrapper .linkedin:hover .tooltip,
 .wrapper .linkedin:hover .tooltip:before{
   background: #0077b5;  /* strong blue */
