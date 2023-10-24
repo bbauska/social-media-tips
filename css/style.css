@@ -83,25 +83,50 @@ html,body{
 .wrapper .facebook:hover span,
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip:before{
-  background: #3B5999;
-}
-.wrapper .twitter:hover span,
-.wrapper .twitter:hover .tooltip,
-.wrapper .twitter:hover .tooltip:before{
-  background: #46C1F6;
-}
-.wrapper .instagram:hover span,
-.wrapper .instagram:hover .tooltip,
-.wrapper .instagram:hover .tooltip:before{
-  background: #e1306c;
-}
-.wrapper .github:hover span,
-.wrapper .github:hover .tooltip,
-.wrapper .github:hover .tooltip:before{
-  background: #333;
+  background: #1877f2;  /* vivid blue */
 }
 .wrapper .youtube:hover span,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip:before{
-  background: #DE463B;
+  background: #ff0000;  /* pure red */
+}
+.wrapper .twitter:hover span,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip:before{
+  background: #1da1f2;  /* vivid blue */
+}
+.wrapper .snapchat:hover span,
+.wrapper .snapchat:hover .tooltip,
+.wrapper .snapchat:hover .tooltip:before{
+  background: #fffc00;  /* pure yellow */
+}
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+  background: #171515;  /* very dark (mostly black) red */
+}
+.wrapper .codepen:hover span,
+.wrapper .codepen:hover .tooltip,
+.wrapper .codepen:hover .tooltip:before{
+  background: #212121;  /* very dark gray (mostly black) */
+}
+.wrapper .linkedini:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+  background: #0077b5;  /* strong blue */
+}
+.wrapper .quora:hover span,
+.wrapper .quora:hover .tooltip,
+.wrapper .quora:hover .tooltip:before{
+  background: #aa2200;  /* dark red */
+}
+.wrapper .amazon:hover span,
+.wrapper .amazon:hover .tooltip,
+.wrapper .amazon:hover .tooltip:before{
+  background: #ff9900;  /* pure (or mostly pure) orange */
+}
+.wrapper .email:hover span,
+.wrapper .email:hover .tooltip,
+.wrapper .email:hover .tooltip:before{
+  background: #013220;  /* very dark (mostly black) cyan - lime green */
 }
