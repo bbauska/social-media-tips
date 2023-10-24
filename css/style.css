@@ -130,5 +130,5 @@ html,body{
 .wrapper .email:hover span,
 .wrapper .email:hover .tooltip,
 .wrapper .email:hover .tooltip:before{
-  background: #013220;  /* very dark (mostly black) cyan - lime green */
+  background: #228b22;  /* dark lime green */
 }
