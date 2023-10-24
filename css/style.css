@@ -108,7 +108,7 @@ html,body{
 .wrapper .codepen:hover span,
 .wrapper .codepen:hover .tooltip,
 .wrapper .codepen:hover .tooltip:before{
-  background: #212121;  /* very dark gray (mostly black) */
+  background: #47cf73;  /* moderate cyan - lime green */
 }
 .wrapper .linkedini:hover span,
 .wrapper .linkedin:hover .tooltip,
